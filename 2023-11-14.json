@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Morris",
+  "age": 26,
+  "address": {
+    "street": "Soaj Way",
+    "city": "Tucpagih",
+    "state": "KY",
+    "zip": "09387"
+  },
+  "contact": {
+    "phone": "(227) 545-1758",
+    "servicePhone": "800691136"
+  },
+  "birthday": "1999-09-15T10:43:27.635Z",
+  "ip": "211.108.67.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Ek pente wadoc povukpuw ureisiwam uz ewa tekpukdi vimu bijzesuf cap cadin. Rir vav osasohor liwiwti fub zop kosjodkah ev fa ajelagzet rawtufzit rutabjod. Zu detju colawe to mor kebbiwno lelejgop diiku sodawiadi woc hausi lec dab.",
+    "bio": "Bokusig nomagom pansibiz duac gidku sedgawvas moposru leez soaw mepal ev zike tedmod tuzalkum. Ez hejdov jecere urulatuv kobpid ciro ru faj vufokake fefsogak vuc buzop cemciw nicunza lijkiegi. Kohujok seewzoc loesose timam raplawopo liwdisi va fihmo ak mika fembuib sujsu howwozsi."
+  },
+  "apiKey": "5435876604f5609635b2c2148133e157b6fc07b8b7c6f7ea9006ec0fb81b3041",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
