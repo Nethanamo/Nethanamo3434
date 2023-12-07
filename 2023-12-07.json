@@ -1,0 +1,26 @@
+{
+  "name": "Jean Guerrero",
+  "age": 34,
+  "address": {
+    "street": "Ekorop Point",
+    "city": "Migadu",
+    "state": "TN",
+    "zip": "06007"
+  },
+  "contact": {
+    "phone": "(460) 716-5767",
+    "servicePhone": "800638681"
+  },
+  "birthday": "1986-11-15T09:37:02.380Z",
+  "ip": "45.79.140.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaoc gaofo nogec da tehpabdi veaf ko rad hofowrod dik hacvaku ojuci fa rupufa deklaziv bowevulan cuwe ez. Fe ginu kas jubwe mukfertu ala alrul tibikeg zavuvo geruv ne jovmok kewfujje rob jok lojag supse ijire. Wa vule unirakvob ucevap mab mizom boipi ikguc lapwizjas ele octe kecsan zerki. Pujiti ah nudli fecov ne du juvmav um ocecfez nodolon sorvordoz okbin ampoot zam otawolel wanomel su. Riripse catpitek ti laf fo temewini mud putocega fif evi nabwuic heef fuuda.",
+    "bio": "Gar mowek ra jubale ekupa hakagoc do fit jeicigo guzleap vaz no hirkozab de cap reretop itejen jujfilebi. Toedo rohcis jisuwine ne ukoruvep biafa ra sel oput pu uc ev finle nonbi sueji camuhbo ha cis. Tawwoc ga wije tejjugap pojat caiw vorulo vif tiezadep aniidic kegadfit linajo ra kobege sagisab olusedu ov."
+  },
+  "apiKey": "e83f61c23941e8e721b0e8a67e376cd5c0d9e27f820f4ad1c27d5ff51a493f4d",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
