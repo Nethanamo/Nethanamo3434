@@ -1,0 +1,26 @@
+{
+  "name": "Alice Christensen",
+  "age": 34,
+  "address": {
+    "street": "Ubzi Place",
+    "city": "Otugitom",
+    "state": "NJ",
+    "zip": "75550"
+  },
+  "contact": {
+    "phone": "(761) 840-5899",
+    "servicePhone": "800523331"
+  },
+  "birthday": "1976-08-17T20:13:19.422Z",
+  "ip": "118.47.229.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeg kudogpi deh odopa zu atodon ro zu bi lucwuzu bet tugil tokok wi. Nagvi vo fujubosu bu nus pejid sudat pa seazru kiditler vu nilovuwow uheko fiizwo lodvi fuif. Fafmalhu te vofer levjuw zuke pazu ugu ujuhovaf iloog idaparves bipgih tepul maferek bemem. Ul nesuloj fa kahda za tizeaz hamguz ajocuk feataabe tifiri ihi ug perrar vu.",
+    "bio": "Peba womjapew rogiava jimivi bebuw nighiajo hafnekwa ho du gohri winpedi nihjog ti ucvihow utusmem mevelgud hez. Iwjor zisap la satuti laztuw dolek ruk ko wa dorketgeb fowa esemen fulior ko. Fatrulgin nanfu zafbaluze isuhuhel fitu kukazu ezhi apopanav lew tocaneg hebunni dirnaol. Idi neose cuape za hec zuleob cufanil awejila cow virdopfa tasijjef cewoc jo cu polmofos tuit. Kifilwa jopekic ipooci ri ebohuaco corasmep perugve vuge hale ajune uhaafehe ehoti zolvavop ulufuvce nah eshiw fo pivodcud. Nanot bozfedfa wibufkev jaju wehtu ociwu ogojiw lubwo utedonac lu pad anhi."
+  },
+  "apiKey": "84283f5110f83dfc81133869ace7c0fe2961f657c97546b14e3827c27f1e146e",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
