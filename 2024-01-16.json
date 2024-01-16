@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Weber",
+  "age": 65,
+  "address": {
+    "street": "Okiolu Place",
+    "city": "Amibuob",
+    "state": "ME",
+    "zip": "64673"
+  },
+  "contact": {
+    "phone": "(451) 656-5209",
+    "servicePhone": "800688625"
+  },
+  "birthday": "1994-09-30T05:10:08.088Z",
+  "ip": "165.13.63.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Noku su nenitikif gah vel radekjo hawjal faw ep ved git tivij ogeneic zo zihu favtes jaj uba. Upugecos idaceol muomo olaru ikuza osouma ni su wugpawbul diirtep nuvpedi rikheg ovedac tadan. Roh em huge cagoku hikcur taczu leb cosceuf teve udwi jizfuse bonvadu.",
+    "bio": "Si ve sema epta do igrek arenesled petwuvji duhtipaki vowtoh sin ufa li dorgi. Lohici fese bosikmi hamleros watsibim did kujrid abehif ruceole cafevij fi cez podidvud emehub jiccebow ce gol. Tek hoad ibhoj wadafo upizov alru cebipahet letgucav dogheri te olu diz. Gukif nap jo lollawjal wajped odsodot savkok ki ufjibote web helturil lohub caphus sud wiid. Akota fila cimsi ruje cer pir rufimuk kuor zo dodjal ag bevroavi bi uwetubo. Uhanu hagekke nortein lulap riwuhek kur imhucfak veufwo wetoola winup uvdac sel. Wuvwo nazciw melig to iwjaz zaglul totan taedewa wuscouk awzih varko iwa eh ruv nimu ur."
+  },
+  "apiKey": "a39d4a859dbf598bec3b47a54bf22024800179021dc7f605dff32901850c0eee",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
