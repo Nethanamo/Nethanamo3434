@@ -1,0 +1,26 @@
+{
+  "name": "Juan Hernandez",
+  "age": 35,
+  "address": {
+    "street": "Wapu Drive",
+    "city": "Lavonset",
+    "state": "NM",
+    "zip": "91173"
+  },
+  "contact": {
+    "phone": "(248) 657-3776",
+    "servicePhone": "800644949"
+  },
+  "birthday": "1980-09-09T23:01:07.428Z",
+  "ip": "243.58.212.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Rawi dul efo kuru pe bebfup osbada fitwok falzunub bahto egzimdob husezha. Zujaze ehad jugri kapewuz memosipi mis gaug fu eg nedburku evogofbe lelkeghe lemitmo hojujwek eneik kokgu. Mipu wavrodder efebemcaw zol vab put bo bezdakug eli ura dewi ucidos jem cuhi avhe up uczioz nunof. Nabi waad reero guzborzin taztavu gu huwtukvo go kazulto gustoflur uhuneafe hahbi. Fidji huv reorwe forez zeituve revfemol polir awa eccowa efikodi cemutpi opapune kofensaz hirava epumora rosus.",
+    "bio": "Dackuur mutid kaut gafkilbek teda si fekmaem ezaadnow bu mopvindas adtaf covarnow imuowi avovoz. Ivvapbir lu ro eh webep cizuspa gewisgu tem ki digsuv hite nulafir ned sihvog jiwivpub. Uliic puf osuahale rout lupzot hu wot wioluhu vuc ukikumog jukzueto jolfeb hel. Irenuvi lojud nandut ovkapet rautvo sidtazlo evhu wutmuz jomgebke per we pokomvis wipude ha gikas buvdudel. Ogehehjev agi vufadluj kadguf suwiha to celi haunpil adsakuj ze re kefjigkoc ecouma suhrodci emase sokusham hod. Zav we lukocu pi hebru utcaz evo maksuse ca gidgiike epupag culelu gusavlik megor fuali dekjine iseep. Jod lal go sij fasi tibne nog otfe rogef jekter hi lofjizjuv gudit ogna zo."
+  },
+  "apiKey": "3b6c62f253771531c36850eee09d26db8e7413aaeca1aa77b3ee8573c187ee04",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
