@@ -1,0 +1,26 @@
+{
+  "name": "Myra Barker",
+  "age": 18,
+  "address": {
+    "street": "Tatog Turnpike",
+    "city": "Socaple",
+    "state": "ND",
+    "zip": "49416"
+  },
+  "contact": {
+    "phone": "(835) 830-1562",
+    "servicePhone": "800845448"
+  },
+  "birthday": "1989-05-10T10:18:32.842Z",
+  "ip": "49.30.69.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Amak nece lanegulo bavomnov jew soj go me ig eclezo subkivla hakupod. Nal toh womo zavmus hov lec pud sediv ac reek din ba wojage opwu igu epge komva. Fedwu warodetu sajas widde wen dutbun afcintop olu akesi ves opillu zuc vuzepe epheg mi. Ciw nicihe foracaj uzimu hujwirco ubi tu nudefap pi idaopezo vorzok jaz roterba feevijim wifvec ug. Iruepgo zahan cipude ju ju zehuhle eheiruso lijzis jilmurzi fehed dumin bolunuga kunag uwi ed lascuh taflo tiwgaume.",
+    "bio": "Fi nilma gad nu di evaja as waf serowoh hipu couhipu beus. Jiwzamaf ejaitecih uf iksawvi la os jirizrut va ga um ilepo balkifa. Hu uzusage ucfoci suvu haguehi iwalo ziw taz hapbafzud sivom nartu jacuico ewali elnavac ofewolub isrivpa jo dumkenu."
+  },
+  "apiKey": "29bfded44ed2fcbbbd1d37dd9b7ae73b88c80b8c41cc3fe16826f9a95ec15b50",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
