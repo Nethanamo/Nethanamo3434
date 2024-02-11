@@ -1,0 +1,26 @@
+{
+  "name": "Chris Olson",
+  "age": 42,
+  "address": {
+    "street": "Jogek Road",
+    "city": "Vamarik",
+    "state": "NY",
+    "zip": "73299"
+  },
+  "contact": {
+    "phone": "(900) 636-8458",
+    "servicePhone": "800748946"
+  },
+  "birthday": "1985-09-10T09:11:36.701Z",
+  "ip": "103.211.197.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Milibuci ve ginir tudsire ido jol mivuf tiaka ga jajwephi kehser sim lejgezcos wetagte. Meozi hal mahas wokkus sa jobsaj bu riw ca hufoma ikucol poureta etatohtud pidgo ti. Eva muvit kigfaj kipwuj jucuruji ekgodeg mafrer vub zo ehkat uhijaphil deutnu debade ci lirma. Ariodi uzve sajwa kivwo rilnovloh jiccic hoska kinle wimdos tealas mejofubo gawej uz mec me ewpip cosu.",
+    "bio": "Godjevah hecascu lod viul osoesu weid gezep ramaf zilo fuefu rubep cichewip tanu nassibab. Ziserufig la ezsewre jefna si gimjajbe dol poh we ha viippo mo jaruvje ocorodola. Lopzav ota roruluda somamhi povor did ta ap ma nuufhe azjejaz utuosa edmo dalkajol."
+  },
+  "apiKey": "9e877811e80446f430f84ae1b536fe537c66c068693b9db3e439d5743a76e420",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
