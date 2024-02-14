@@ -1,0 +1,26 @@
+{
+  "name": "Allen Elliott",
+  "age": 20,
+  "address": {
+    "street": "Ucuhi Street",
+    "city": "Ketotabe",
+    "state": "GA",
+    "zip": "51401"
+  },
+  "contact": {
+    "phone": "(349) 999-4511",
+    "servicePhone": "800564949"
+  },
+  "birthday": "1967-09-05T03:15:53.040Z",
+  "ip": "93.238.95.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Mezo eja gapsefwa tenowe mim ga gatu emuwajaf tapeupu fofo taujma ga se miva wedaz. Red wowtiza sibvi tad ekizi mepcuek awo eb re vevi movil win deibocit da lohcapez zissi. Lompu dil jagekek to kosgioh jurpop daan wobukzu ja ocoki koffessun lub mazpuzimi gabaha riosu.",
+    "bio": "Ziv gu areni pup simsitu wejsow jezaso ulrom ijahuhi wuroj is if. Imoati cuugis amso cug beohoruz bipaza madopu acsuh seg jenve iva guwav jah detfen ra. Ozan kijhulze op pewziati kav bekkifo dal udi tacugida muf ow danopus tozwo cajkac covrej. Dovud bukgezan buf mugorlib kedat wo kojob zebe za sip putout gap. Po ikefiil limor powmuhses maujosol gekvi ewa zu pokata jawje orenub lupa aju."
+  },
+  "apiKey": "3b22dfaccd36249ae67116fe632ba1adfceb10eb9454f56bb7dd775dc112d872",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
