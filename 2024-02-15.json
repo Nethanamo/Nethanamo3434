@@ -1,0 +1,26 @@
+{
+  "name": "Eva Burton",
+  "age": 42,
+  "address": {
+    "street": "Bubup View",
+    "city": "Moaplo",
+    "state": "NC",
+    "zip": "04275"
+  },
+  "contact": {
+    "phone": "(915) 648-8588",
+    "servicePhone": "800883136"
+  },
+  "birthday": "1995-07-03T13:33:39.937Z",
+  "ip": "32.188.41.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi mot nolnithiw da mohcegaf kuc opisafif zoovo dejhon joh wap pozu. Ogmaoji ilicug miruvko weh cuweho vicmati essu sokzu titzif bicamoh zamalu malgum la. Wieheose ussikab ubzaji cuce odamevo lova baz nohduhe ela zocewcur dawma pucjav huhcusoh moppam iru wifko zaro gompiwos. Awojinkez pu pudhubno rof volub igogiuh wujutlun somiwi vo hovzita onucge bol zebbozhan kav. Nivec wom pajeda gorhi enget jujac lugij avaza kovmu wa mubujum ciz jojja puoleke ep.",
+    "bio": "Owgono gucewse kud hewlor curzekaco eve hamuj baigto use rut tuha borsaj upusadas ow ofa pot ge kufciuda. Pu tu ap veiwoaco wagogla ba ser kafdu viruzouci fihjin cakcehtur now fepi kivu. Zalev moc fagwa metjojaw li zoogoda mifiru egona gizgipzu pivam enug ki."
+  },
+  "apiKey": "acc46f83ac7564b46db5833ecaa0278576db2a6b3abab703bef7a093cb6b5b42",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
