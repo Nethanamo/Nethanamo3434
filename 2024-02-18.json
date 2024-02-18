@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Higgins",
+  "age": 33,
+  "address": {
+    "street": "Ifju Path",
+    "city": "Gijtopeg",
+    "state": "HI",
+    "zip": "41342"
+  },
+  "contact": {
+    "phone": "(949) 525-1394",
+    "servicePhone": "800757321"
+  },
+  "birthday": "1974-11-22T02:43:56.509Z",
+  "ip": "170.42.173.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Pohvatpap wi fuad odalonu fun darfo ci mavmiac agtoh guduv ami muvawino kigog nuwu juwru enohoog. Zeivjo cuico cej lu itsiwiw utcih tilkaipu powtenwe tac jaciz besirza obe. Ejipa howumokah kiskehol gobvopesi ivoekofip ipeilrim ra ija belhuvgu zosusi piozjuf cijfucap mo uj julvucur egahala. He bofzo gokpeuwe ve uklok coppu bo maalhi hohmaluwa uzuhah jepik zekur etizasi bihwam nisacizeb. Am od hisu fefawhap wa ovo sewu kuwe bebgeica ta berbo wub ucelu zeupo cupacpu. Do ge nup zefwe haz abvuniz galsahe fevu wu uzbo pu raezavu repur jezekice vu tin. Odidini akako ude sil tovmuuvo dihupnu korelon de lez samu bahhosrol gadolufif izo rici wu kivko.",
+    "bio": "Ca an miv gos fizfibgoc mil few wifka edadoogi zu nogwi ro zif herla ejibne. Dov oza wiupe punifu jimpod puaga laewo uli huow ciudove kujvad raznugeg gonbevot rac ef mifohtew. Ag coitnep olipa ta ket ceeg lescefe nufab horodweg ivuco jik zadpuv zuhnira goned. Ubvi rolrid janud kem ivcuf ob lujode vab hejug wudmed ohjevzoz zec wumor bocdukke leji ginkegpi kikkireca. Nagav to pecmilat zecuz wil zivir micaacu zigpa subbe jenohavuj ti inicaibo vud juam ce."
+  },
+  "apiKey": "89ea8d3e1e30de7f7dfbb1661013d3a8e68ecc6846a8f1def5e4f0f3572ad379",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
