@@ -1,0 +1,26 @@
+{
+  "name": "Edna Higgins",
+  "age": 65,
+  "address": {
+    "street": "Goki Path",
+    "city": "Cofsulo",
+    "state": "FL",
+    "zip": "48714"
+  },
+  "contact": {
+    "phone": "(266) 890-4808",
+    "servicePhone": "800871671"
+  },
+  "birthday": "1976-12-05T04:33:35.925Z",
+  "ip": "13.3.68.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo wano gaopde nogi cerletzod duke epo li we unereh owi gev. Tikaj ladoir av havaz ofwid zu iv issobtu na ahesup ulig okbacfoh ubon. Lok buzsa dizbup edaanga radedzu at logud cu hilhimif juri jahame eg logawru iri.",
+    "bio": "Eglik povub poz ur ika taoziigo da du juca losiag zarip me. Legus hufukuv owudupe vazaku an lalgavsac losun otfo venfo kes seduho bafe ti pe wujru laggen. Izowoda wodguj to cev faro lez se wevne mep modso jek buk utimoane pir mese lidme. Los co kiwav lika bewpeico nume uhu jave si siz nit gel ka cel nu zawkop. Danafgif bodifa pa pif mu kogpozow wukon nus tu cuge wi cefoh ovi."
+  },
+  "apiKey": "899543749e4148530cc87b2506c2c826c9f0cafbefb8890231eb2a522d305a18",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
