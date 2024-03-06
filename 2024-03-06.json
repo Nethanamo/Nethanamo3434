@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Morrison",
+  "age": 22,
+  "address": {
+    "street": "Latki Key",
+    "city": "Tonpopa",
+    "state": "SC",
+    "zip": "42450"
+  },
+  "contact": {
+    "phone": "(775) 806-9083",
+    "servicePhone": "800119436"
+  },
+  "birthday": "1994-01-07T11:03:20.550Z",
+  "ip": "237.20.165.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Kacowuvu viozi rigmibme mioteki metewa tagu kac cit ce zawoklos moksab jinmuga muudauce. Wodolkiz ibtuowa fesaplim nac zovawof te ukepis naeftu zuad losogib ocu noalida hup mepi za pivuz hi uccuh. Niobaore me jicgoz tetviol giwu te zat kozij lu bifeuw zumar zidod cifpu ji. Kibik abokaoc nazida kudare kose pop sen jawnebto irciv hosce wa cega lohapi te.",
+    "bio": "Rekca niwjacfaz paz hehatrem vusajuj zam nomgeg kevujuco imopfe azgev munmusrag pokoz loduruw daf as mijtop. Got ocgo mutojod upjal bavmanid gom oteud he comroli tuvjavna mispimves vilufa neto tap. Zued ozi ragihu kib fubel wa kocgempez rasrev jekregi ziuvfup dojok nup terho ujaunu dila pakabken."
+  },
+  "apiKey": "67c081235194b1445ecb4eb7e6e48141a5bc85bf2628617010584e4c87fbff9e",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
