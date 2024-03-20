@@ -1,0 +1,26 @@
+{
+  "name": "Mable Greer",
+  "age": 18,
+  "address": {
+    "street": "Ogero Circle",
+    "city": "Jevoguju",
+    "state": "UT",
+    "zip": "87642"
+  },
+  "contact": {
+    "phone": "(414) 304-6676",
+    "servicePhone": "800454663"
+  },
+  "birthday": "1967-10-23T23:36:56.306Z",
+  "ip": "104.136.146.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Lopeti mar mogden zo bakga lalgas kal tuginih hide fevesnac vu biz. An tu iseiwu se kuto zassaz at ha fehca abazidura bolam duni zuzgav. Mik odenunpa be sowgejuj lumeveri anvoj iroikooru mim bagmi gulcucsir uliha ri. Ah ejended vu si izepik secivak lazoson kitbupu nalu ive igjuvew faoge honzitfam gouz waogapig tidhoad. Sakemano juirde poapeba zec ujuset falbil wagujbo mace uvdigu ob wag ojubej wumjeren iwosul of posamoh. Wukiw verze wojahlom ipo pulbez did juv puz nidlib gefe fiopi vaci ragrajid dokbuwu lurof obfemur numumodi faig. Zonhucza luzvad wacokhi vamelsaj koppo al vedbu case wabar ule huskowo so vih vobahhu vin tudezzi efejozup.",
+    "bio": "Sonufu mih ka va vo ika bi lo ovli feshife ofazas zonur col. Danangim nem nuwpu puhdesge pajiolo bumo urrid cose tazfuc oviwgu lo lur wamoc epozuzsis kevpaz dub babli. Fisan weam pe uciresle va sujige inoigudut jofjinef hieswi na tamtube ka kabawo olji liajo kocesu."
+  },
+  "apiKey": "e09b5c8fe6bb19676e41e3849d079ef7d6b237ae9e64d91458ac069ba01ce850",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
