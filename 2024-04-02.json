@@ -1,0 +1,26 @@
+{
+  "name": "Callie Wagner",
+  "age": 51,
+  "address": {
+    "street": "Zakrer Boulevard",
+    "city": "Kenfalor",
+    "state": "SC",
+    "zip": "19632"
+  },
+  "contact": {
+    "phone": "(747) 846-2339",
+    "servicePhone": "800837542"
+  },
+  "birthday": "1978-08-01T14:56:35.350Z",
+  "ip": "176.179.221.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugugi tasunha galejol hanuzeto finbiw asgam vas uw gepnico parihoha ninsir vosroako fezu misgipop pehogjet. Ovuha luhbonun ugegu rime peh ujwihin ovo rabo tojnel muh kohsid oltus. Vi nawaesa fa pu gitevuk vovjum pavja hatnako cable hocupese wajak zib. Biud ozaidi viiwizo nimofof nekeh vajvemcaw ju ovci iniuniida ib gibsovus ihkah.",
+    "bio": "Wi unoozuf bujpekuw inosud ofene takpu kesaw jizsez gusipa jicrek zodevut fif hep. Lonfu adu japad okageulo jo be ofahueme fimav hahucca foc bezvumfuv zejifa lonhim udo ku metli. Jopho egawooma hakovat ihop waf wireheza necem omolu iveiphi mazuce lezuupa zaol guribo fab."
+  },
+  "apiKey": "b8865f8d2c23a1a6768bb056992ab7f4458400c54d64a936e861b86424abf282",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
