@@ -1,0 +1,26 @@
+{
+  "name": "Sue Dixon",
+  "age": 51,
+  "address": {
+    "street": "Zadta Place",
+    "city": "Pageko",
+    "state": "NM",
+    "zip": "79727"
+  },
+  "contact": {
+    "phone": "(272) 422-2943",
+    "servicePhone": "800943483"
+  },
+  "birthday": "1976-09-05T06:00:53.691Z",
+  "ip": "60.47.66.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Ado fege ji legi doja ceruduk navra hicgu fuj kohuh paj ce rir hin. Gewac aze buztecov ojilenah catan not wudla cun luoma mat fikbil guan udoc. Ji piwishur alezekfim uguop co sihedo ci lalaw ugebi riku we lok ke gefzajome kimodsec hosoewu. Vu wuipica juf do ut okmuhimi desar epulof vuv ada guce dofwa woresi. He ocuvihbaj ehe fitavav mifvoca ho vuwoci ipgav mivop bizhaser ovlu anepo vemiz jilri fiive haceg lupno eti. Muszap givuw govlok vezwaz ezlus feterik monge mid zudked jiwdut vutdadab meduto nacaem caivobap bo ewrod. Edasol vevovru cu micidrav ta tot okakopdav nacag eto sotah bo jarozami tidbupa jivojak vu.",
+    "bio": "Cobutum hu ewibois fi kefelzi suvur nerkuvan huen du epa bow ipiwouso vocdaucu sogogal sekwol mudhud ahuanoume. Bavdajtu bimkocca ovapa sumela nod fas sowripuk ag cuse tefwasip vosi bar. Nozref opoal uno bekrad rihisu dofonez kob kuploswer zesjaifu nite rarizeb wedjopi. Fohzachid lufumu selud cawcah oso wew omijon abcumlip muz awa padhi bo kog jetuvmu midpa."
+  },
+  "apiKey": "7db9cedaa324eb336eb53be64770da071ca5417ee4e815815be6fc208e694fd0",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
